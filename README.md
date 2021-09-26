@@ -13,7 +13,6 @@ The Creating Commerce is a console-based menu driven application that simulates 
 ## Features
 
 List of features ready and TODOs for future development
-|-----|-----|
 * As an user, I can login.
 * As a employee, I can add a new product.
 * As a customer, I can signup using my email, first name, last name and password.
